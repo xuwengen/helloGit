@@ -10,6 +10,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Hello git  !");
         System.out.println("Hello git dev !");
-
+        System.out.println("主干添加");
     }
 }
